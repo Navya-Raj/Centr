@@ -1,4 +1,5 @@
 # Centr
+##Celebrating identities,Empowering minds
 
 Welcome to Centr – a revolutionary platform empowering individuals on their journey towards self-discovery, pride, and genuine connections. Celebrate diversity, break societal barriers, and find a safe haven for understanding and support.
 
