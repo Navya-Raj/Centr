@@ -119,10 +119,11 @@ nav ul li:hover{
     max-width: 700px;
     height: 90%;
     max-height: 600px;
-    background-image: url(hero2.svg);
+    background-image: url('../images/hero2.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+    
 }
 
 .menu{
@@ -131,8 +132,9 @@ nav ul li:hover{
     text-align: center;
     display: flex;
     justify-content: space-evenly;
-    button{
+    a{
         outline: none;
+        text-decoration: none;
         border: none;
         cursor: pointer;
         padding: 15px;
@@ -219,28 +221,28 @@ nav ul li:hover{
 #picture1{
     height: 80%;
     width: 30%;
-    background-image: url(p1.svg);
+    background-image: url('../images/p1.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 #picture2{
     height: 80%;
     width: 30%;
-    background-image: url(p2.svg);
+    background-image: url('../images/p2.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 #picture3{
     height: 80%;
     width: 30%;
-    background-image: url(p3.svg);
+    background-image: url('../images/p3.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 #picture4{
     height: 80%;
     width: 30%;
-    background-image: url(p4.svg);
+    background-image: url('../images/p4.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
