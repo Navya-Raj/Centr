@@ -2,6 +2,8 @@
 
 Welcome to Centr - Celebrating Identities, Empowering Minds – a revolutionary platform empowering individuals on their journey towards self-discovery, pride, and genuine connections. Celebrate diversity, break societal barriers, and find a safe haven for understanding and support.
 
+Website line: https://navya-raj.github.io/Centr/
+
 ## Motives
 
 Centr's primary motive is to create a judgment-free space where individuals, irrespective of their background, can proudly embrace and express their identities. We aim to break societal barriers and provide a haven for those who seek acceptance, understanding, and genuine connections.
